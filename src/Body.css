@@ -1,0 +1,254 @@
+#Join{
+    
+    border-radius: 8px;
+    padding: 5px 30px;
+    background-color: blue; 
+    font-size: 16px;
+    font-weight:bolder;
+}
+
+#input{
+    margin-top:3px;
+    border:none;
+    transition:none;
+    box-shadow: none;
+    font-size: 15px;
+}
+
+.glyphicon-envelope{
+  
+    margin-top:8px;
+    font-size: 2rem;
+}
+
+#usa-flag{
+    margin-right: 15px;
+    width:30px;
+    height:24px;
+
+}
+
+#usa-text{
+    font-size:17px;
+    font-weight: 500;
+}
+
+.app-store{
+    
+    display: inline-flex;
+    float:left;
+    margin-left:20px;
+    
+}
+
+.jumbotron{
+    background-color: white;
+}
+
+#mobile-card{
+    width:296px;
+    height:439px;
+}
+
+.heading-1{
+    font-size:25px;
+}
+
+#sequioa{
+    display: inline-block;
+    width:200px;
+    height: 50px;
+    float:left;
+    margin-left:300px;
+    margin-right: 70px;
+    
+}
+
+#polichain-capital{
+    display: inline-block;
+    width:200px;
+    height: 50px;
+    float:left;
+    margin-right: 70px;
+}
+
+#consensys{
+    display: inline-block;
+    width:200px;
+    height: 50px;
+    float:left;
+    margin-right: 70px;
+    
+
+}
+
+#blue-para{
+    justify-content: left;
+    color:blue;
+    font-weight:700;
+    font-size: 22px;
+}
+
+#para-black{
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-size: 3rem;
+}
+
+.text-div{
+    margin-left:20px;
+}
+
+#two-fifteen{
+    width:350px;
+    height:256px;
+    width:100%;
+    height:100%;
+}
+
+#products{
+    margin-top:112px;
+    text-align:center;
+}
+
+.h2-sub-header{
+    /* font-weight: 400;
+    font-size:1.5rem;
+    color: rgba(118,118,118,var(--text-opacity));
+    line-height: 1.5; */
+
+    width:70%;
+    margin-left:150px;
+    font-size:3rem;
+    font-family: LetteraTextLL;
+}
+
+#card-scheme{
+   margin-top:80px;
+}
+
+.card-para-one{
+    font-size: 20px;
+}
+
+.two-fifteen-blue{
+    color:blue;
+    font-size:50px;
+}
+
+.badge-text{
+    
+    margin-left:10px;
+    font-size:20px;
+}
+
+.badge-div{
+    margin-top:30px;
+}
+
+.green-number{
+    color:green;
+    font-weight: 600;
+}
+
+.two-five-zero-zero{
+    font-size:13px;
+    font-weight: 900;
+
+}
+
+.spot{
+    margin-right:30px;
+}
+
+.progress-button{
+   display: flex; 
+   width:227px; 
+}
+
+.blue-sign-up{
+    background-color:blue;
+    color:white;
+    width:238px;
+    height: 60px;
+    border-radius: 15px;
+    margin-bottom:15px;
+}
+
+.letter-space{
+    letter-spacing: 3px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.glyphi-ok{
+   display: inline-block;
+   color:green;
+   font-size:1.6rem;
+   margin-right: 10px;
+}
+
+.para-with-glyphy{
+    display:inline;
+    font-size:15px;
+}
+
+.big-para{
+   margin-top:20px;
+   font-size:14px;
+   margin-bottom:20px;
+}
+
+.info-div{
+    margin-top:20px;
+    background-color:skyblue; 
+    width:100%;
+}
+
+.dollar-para{
+    display: inline;
+    font-size: 15px;
+}
+
+.six-month{
+    font-size:25px;
+    color:green;
+    margin-bottom:0px;
+}
+
+.sixty-saving{
+    font-size:17px;
+    color:green;
+    margin-bottom:30px;
+}
+
+.one-six-five-black{
+    font-size:50px;
+    color:black;
+}
+
+.grey-sign-up{
+    background-color:grey;
+    color:white;
+    width:238px;
+    height: 60px;
+    border-radius: 15px;
+    margin-bottom:15px;
+}
+
+.grey-div{
+    margin-top:20px;
+    background-color:#CEC4C4;
+    width:100%;
+}
+
+.coming-soon-para{
+    font-size:25px;
+    margin-bottom:56px;
+}
+
+.cashback-class{
+    width: 100%;
+}
