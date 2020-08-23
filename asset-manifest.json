@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/onjuno-deploy/static/css/main.e8f9de1a.chunk.css",
+    "main.js": "/onjuno-deploy/static/js/main.8e4de1f6.chunk.js",
+    "main.js.map": "/onjuno-deploy/static/js/main.8e4de1f6.chunk.js.map",
+    "runtime-main.js": "/onjuno-deploy/static/js/runtime-main.6f2430ee.js",
+    "runtime-main.js.map": "/onjuno-deploy/static/js/runtime-main.6f2430ee.js.map",
+    "static/css/2.11829350.chunk.css": "/onjuno-deploy/static/css/2.11829350.chunk.css",
+    "static/js/2.4a225416.chunk.js": "/onjuno-deploy/static/js/2.4a225416.chunk.js",
+    "static/js/2.4a225416.chunk.js.map": "/onjuno-deploy/static/js/2.4a225416.chunk.js.map",
+    "index.html": "/onjuno-deploy/index.html",
+    "precache-manifest.d4da2906fdfd78fef54f67beff984028.js": "/onjuno-deploy/precache-manifest.d4da2906fdfd78fef54f67beff984028.js",
+    "service-worker.js": "/onjuno-deploy/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/onjuno-deploy/static/css/2.11829350.chunk.css.map",
+    "static/css/main.e8f9de1a.chunk.css.map": "/onjuno-deploy/static/css/main.e8f9de1a.chunk.css.map",
+    "static/js/2.4a225416.chunk.js.LICENSE.txt": "/onjuno-deploy/static/js/2.4a225416.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/onjuno-deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2430ee.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.4a225416.chunk.js",
+    "static/css/main.e8f9de1a.chunk.css",
+    "static/js/main.8e4de1f6.chunk.js"
+  ]
+}
